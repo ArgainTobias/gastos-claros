@@ -1,0 +1,16 @@
+#Entorno virtual
+.venv/
+
+#Caches
+__pycache__/
+*.pyc
+.ruff_cache/
+*.ruff
+
+#Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+#Secrets
+.env/g
